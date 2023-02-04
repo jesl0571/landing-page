@@ -1,0 +1,12 @@
+/* The main part with the three boxes. */
+
+.body-container {
+    display: flex;
+}
+
+.body-container div {
+    background: #ffccff;
+    border: 20px;
+    height: 250px;
+    flex: auto;
+}
