@@ -1,4 +1,4 @@
-/* The main part with the three boxes. */
+/* The main part with the three boxes. 
 
 .body-container {
     display: flex;
@@ -10,3 +10,24 @@
     height: 250px;
     flex: auto;
 }
+
+*/
+
+/* This is the quote box. */
+
+.quote {
+    padding: 70 px;
+    background-size: cover;
+    background-color: #ffccff;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.author {
+    font-size: 24px;
+    font-style: normal;
+    text-align: right;
+}
+
+
+/* End of the quote box. */
