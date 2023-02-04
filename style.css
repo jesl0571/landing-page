@@ -16,15 +16,21 @@
 /* This is the quote box. */
 
 .quote {
-    padding: 70 px;
     background-size: cover;
     background-color: #ffccff;
-    font-size: 36px;
+    font-size: 24px;
     font-style: italic;
 }
 
+.quote p{
+    padding-left: 200 px;
+    padding-right: 200 px;
+    padding-top: 600 px;
+    padding-bottom: 600 px;
+}
+
 .author {
-    font-size: 24px;
+    font-size: 12px;
     font-style: normal;
     text-align: right;
 }
